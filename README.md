@@ -28,7 +28,6 @@ To play this game you can use any map of your choice as long follow the followin
 ### Control of play
 You can use `AWSD` to move `UP`, `DOWN`, `LEFT`, `RIGHT`.  
 For restart the game press `ESC` or click on the red cross of window.
-If you touch the enemy you loose the game.
 To win the game its necessary pick up all collectible and pass for the exit.
 
 ### How execute the game
