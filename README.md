@@ -9,7 +9,7 @@
 textures, sprites. And some very basic gameplay elements.
 
 ## How play the game
-To play this game you can use any map of your choice as long follow the following rues:
+To play this game you can use any map of your choice as long follow the following rules:
 
 * The extension need be `.ber`
 * Its must be rectangular, surrounded by wall `1`
