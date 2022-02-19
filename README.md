@@ -1,4 +1,5 @@
 # so_long 
+![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/letumany/so_long)
 ####  ```and thanks for all the fish```
 <img width="1301" alt="so_long" src="https://user-images.githubusercontent.com/73405731/151946959-00fbc806-52c3-45ee-8a1d-42d76e81b453.png">
 
