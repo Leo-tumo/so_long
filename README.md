@@ -1,5 +1,4 @@
-# so_long 
-![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/letumany/so_long)
+# so_long
 ####  ```and thanks for all the fish```
 <img width="1301" alt="so_long" src="https://user-images.githubusercontent.com/73405731/151946959-00fbc806-52c3-45ee-8a1d-42d76e81b453.png">
 
@@ -46,4 +45,4 @@ This will compile the executable file `so_long`, to execute its necessary run `.
 | `make re`    | Do `fclean` rule and compile the program                |<img width="1301" alt="Screen Shot 2022-02-01 at 13 47 50" src="https://user-images.githubusercontent.com/73405731/151946448-d3656324-0bd4-4ab1-88c2-5830deea016f.png">
 
 ## Final grade
-<img width="499" alt="Screen Shot 2022-02-06 at 01 29 09" src="https://user-images.githubusercontent.com/73405731/152659675-48c71b58-a809-459d-8ce5-87b5f1dd0835.png">
+[![letumany's 42 so_long Score](https://badge42.vercel.app/api/v2/cl1l8hert000609l6rjl6rx6o/project/2451039)](https://github.com/JaeSeoKim/badge42)
